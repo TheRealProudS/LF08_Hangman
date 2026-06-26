@@ -20,8 +20,10 @@ PROJEKTSTRUKTUR
 ----------------------------------------
 
 hangman/
- └── src/
-      ├── Main.java              (Startpunkt)
+
+└── src/
+ 
+      ├── Main.java (Startpunkt)
       ├── Game.java              (Spiellogik)
       ├── WordProvider.java      (liefert Wörter)
       ├── HangmanPrinter.java    (Konsolenanzeige)
